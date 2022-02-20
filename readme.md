@@ -2,7 +2,9 @@
 <b>Task-1:</b><br>
 Create git repo and host it on any public git hosting service [Github / Gitlab / Bitbucket].<br>
 Clone that repo, create a branch, add a Readme file and push the changes to branch and get it merged by your mentor.<br>
-(Verify if it has reflected on UI and attach screenshot as solution with images)
+
+(Verify if it has reflected on User Interface and attach screenshot as solution)
+
 
 <b>Task-2:</b><br>
 Simulate a merge conflict and try to resolve it. ( Share the steps as a solution ).
